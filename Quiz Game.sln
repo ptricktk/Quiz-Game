@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz Game.CSharp", "Quiz Game.CSharp.csproj", "{394FD467-90C9-5536-0CCA-D98DF2BC11BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394FD467-90C9-5536-0CCA-D98DF2BC11BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394FD467-90C9-5536-0CCA-D98DF2BC11BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394FD467-90C9-5536-0CCA-D98DF2BC11BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394FD467-90C9-5536-0CCA-D98DF2BC11BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
